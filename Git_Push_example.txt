@@ -1,0 +1,20 @@
+
+
+
+
+git push --set-upstream MyGitProject master
+
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 2.78 KiB | 2.78 MiB/s, done.
+Total 9 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/PDesai123/MyGitProject/pull/new/master
+remote:
+To github.com:PDesai123/MyGitProject.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'MyGitProject'.
